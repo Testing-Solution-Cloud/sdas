@@ -1,0 +1,24 @@
+{
+    "orgName": "sdas - Dev Org",
+    "template": "0TTWs00000089vl",
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "chatterSettings": {
+            "enableChatter": true
+        },
+        "userManagementSettings": {
+            "enableNewProfileUI": true
+        },
+        "securitySettings": {
+            "enableAdminLoginAsAnyUser": true,
+            "sessionSettings": {
+                "forceRelogin": false
+            }
+        },
+        "languageSettings": {
+            "enableTranslationWorkbench": true
+        }
+    }
+}
